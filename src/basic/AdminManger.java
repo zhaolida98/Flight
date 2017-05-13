@@ -11,6 +11,7 @@ class Admin{
 		this.userName = userName;
 	}
 	public String getPassword() {
+		// Test
 		return password;
 	}
 	public void setPassword(String password) {
